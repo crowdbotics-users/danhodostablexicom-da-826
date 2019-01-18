@@ -1,0 +1,3 @@
+rootProject.name = 'danhodostablexicom_da_826'
+
+include ':app'
